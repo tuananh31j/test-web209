@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "title": "sdfdffsdfgdf",
+      "price": 54,
+      "img": "http://res.cloudinary.com/djcimgjcc/image/upload/v1697253535/izfotfhf9bzgnshoepun.jpg",
+      "des": "Dành cho những tín đồ cà phê đích thực! Hương vị cà phê truyền thống được phối trộn độc đáo tại Highlands. Cà phê đậm đà pha hoàn toàn từ Phin, cho thêm 1 thìa đường, một ít đá viên mát lạnh, tạo nên Phin Đen Đá mang vị cà phê đậm đà chất Phin.",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "0b05",
+      "email": "fe@gmail.com",
+      "name": "ẻ",
+      "password": "ẻ"
+    },
+    {
+      "id": "7223",
+      "email": "admin@gmail.com",
+      "name": "tuan",
+      "password": "1122"
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$k61nDFuccSWiQus5ZU33huOqKAKQxsffJexuQjVrM/lyDxstd4mx2",
+      "name": "ee",
+      "id": "gpqHWql"
+    },
+    {
+      "email": "tun@gmail.com",
+      "password": "$2a$10$HWv0LSV58rfftfRdrXf4wOdGoY/VHMsmTLQBrgbu13j0NAZ6GqhaK",
+      "name": "tuan",
+      "id": "0QqU1y9"
+    },
+    {
+      "email": "user3@gmail.com",
+      "password": "$2a$10$ONOd0N2EO66YWHaEjpTRkeJYxP7ykrhA73DHocZzv5LEWGLn6u6cS",
+      "name": "Nam",
+      "id": "Xj0pLEy"
+    },
+    {
+      "email": "tttt@gmail.com",
+      "password": "$2a$10$wnjbZBWIXGh4HrGtDBC6F.M6Dz3oNjZa8YEZHOkggsCtOGl2gqYsW",
+      "name": "Nam",
+      "id": "iSvwhDt"
+    },
+    {
+      "email": "rrrr@gmail.com",
+      "password": "$2a$10$q34/XXlRUBp374Cr4FmXDOFEoXIHYOIRyy/uqTo7n3KvQ/BrLLBc2",
+      "name": "2wdw",
+      "id": "rEb5dx1"
+    }
+  ]
+}
